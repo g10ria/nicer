@@ -1,0 +1,31 @@
+{
+   "manifest_version": 2,
+   "name": "nicer",
+   "version": "0.1.0",
+   "description": "makes stuff nicer",
+   "icons": {
+      "16": "icons/ico16.png",
+      "32": "icons/ico32.png",
+      "48": "icons/ico48.png",
+      "64": "icons/ico64.png",
+      "128": "icons/ico128.png"
+   },
+   "content_scripts": [
+      {
+         "css": [
+            "drive.css"
+         ],
+         "matches": [
+            "https://drive.google.com/*"
+         ]
+      },
+      {
+         "css": [
+            "mail.css"
+         ],
+         "matches": [
+            "https://gmail.com/*"
+         ]
+      }
+   ]
+}
