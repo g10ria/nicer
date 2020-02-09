@@ -24,7 +24,8 @@
             "mail.css"
          ],
          "matches": [
-            "https://gmail.com/*"
+            "https://gmail.com/*",
+            "https://mail.google.com/*"
          ]
       }
    ]
