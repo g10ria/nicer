@@ -1,0 +1,56 @@
+/* landing screen styles */
+._2SVA_ {display:none !important}
+.fSqCh {padding-left: 30px !important; padding-right: 25px !important;}
+.overdue-submissions-wrapper:not(:empty) {display: none !important;}
+.sgy-tabbed-navigation { display: none !important; }
+.course-dashboard__accessibility-icon svg {display: none !important }
+._2mogH, ._14XBn { border: none !important; }
+.course-dashboard .sgy-card-lens { display: none !important }
+.course-dashboard .sgy-card { height: auto !important; padding: 8px !important; padding-bottom: 10px !important; }
+.course-dashboard .sgy-card-subcontext { display: none !important;}
+.sgy-grid-layout__item {border-radius: 15px !important; transition: box-shadow .3s !important;}
+.sgy-grid-layout__item { height: auto !important;}
+.course-dashboard .sgy-grid-layout ul {width: 40% !important; margin: 0 !important}
+.sgy-grid-layout ul { display: block !important; }
+.course-dashboard { padding-top: 10px !important; }
+ul:nth-child(1) > li:nth-child(3) {display: none !important }
+/* ul:nth-child(1) > li:nth-child(4) {display: none } */
+ul:nth-child(1) > li:nth-child(5) {display: none !important }
+ul:nth-child(2) > li:nth-child(3) {display: none !important }
+ul:nth-child(2) > li:nth-child(4) {display: none !important }
+ul:nth-child(2) > li:nth-child(5) {pointer-events: none !important }
+.yBzR9 { width: 1.2rem !important; }
+.Header-header-button-1EE8Y { transition: background-color .2s !important;}
+body { font-family: "Roboto", sans-serif !important; }
+#right-column { margin-top: 10px !important; }
+.theme-2016 #right-column .mini-event-icon, .theme-2016 #right-column .mini-icon { display: none !important;}
+.\_pendo-launcher-badge\_ {display: none !important;}
+.dVlNp, ._23_WZ { display: none !important}
+#main-inner {
+  background-image: url(https://images.squarespace-cdn.com/content/v1/5ace1725266c0708f3759baf/1528921531988-04LTW5LKMMSFI5P3KFT3/ke17ZwdGBToddI8pDm48kGhzxgMoNa598l3IaDdp3jh7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UVmpcQmgFbvZp1XMYamUxJxwe0X7XM9qHGwM4tsAO8NpJvwGh1qtNWvMhYKnvaKhbA/Flat+Modern+Concept+Illustration+-+Development+Team.png) !important;
+  background-repeat: no-repeat !important;
+  background-attachment: fixed !important;
+  background-position: 44% 50% !important;
+  background-size: 30% !important;
+}
+.theme-2016 #right-column h3 a, .theme-2016 .suggestions-see-more { display: none !important; }
+.sgy-sortable > li:nth-child(1) { display: none !important; }
+.S42JQ { border:none !important; }
+._8a6xl { display: none !important; }
+.S42JQ { padding-top: 25px !important}
+._2v5vf, ._3Pqx7 { border-width: 1px !important; border-color: #eaeaea !important; border-style: solid !important; border-radius: 7px !important;}
+.xjR5v {display: none !important; }
+.Card-card-data-17m6S { background-color: transparent !important; height: auto !important;}
+._2q19q { border-radius: 7px 7px 0 0 !important; opacity: 0.9 !important;}
+._1LY8n { outline-color: transparent !important;}
+._2v5vf { transition: box-shadow .15s !important; }
+._2v5vf:hover { box-shadow: 1px 0px 5px 2px #eaeaea !important; z-index: 3 !important; }
+.S42JQ { padding-bottom: 15px !important}
+.yBzR9 { display: none !important; }
+
+
+
+
+
+
+

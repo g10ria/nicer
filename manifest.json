@@ -27,6 +27,14 @@
             "https://gmail.com/*",
             "https://mail.google.com/*"
          ]
-      }
+      },
+    {
+        "css": [
+            "schoology.css"
+        ],
+        "matches": [
+            "https://schoology.harker.org/home"
+        ]
+    }
    ]
 }
