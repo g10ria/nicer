@@ -28,13 +28,14 @@
             "https://mail.google.com/*"
          ]
       },
-    {
-        "css": [
-            "schoology.css"
-        ],
-        "matches": [
-            "https://schoology.harker.org/home"
-        ]
-    }
+        {
+            "css": [
+                "schoologyLanding.css"
+            ],
+            "matches": [
+                "https://schoology.harker.org/home/*",
+                "https://schoology.harker.org/"
+            ]
+        }
    ]
 }
