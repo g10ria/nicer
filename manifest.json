@@ -36,6 +36,14 @@
                 "https://schoology.harker.org/home/*",
                 "https://schoology.harker.org/"
             ]
+        },
+        {
+            "css": [
+                "gcal.css"
+            ],
+            "matches": [
+                "https://calendar.google.com/*"
+            ]
         }
    ]
 }
